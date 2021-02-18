@@ -21,3 +21,4 @@ vast = { git = "https://github.com/vegaluisjose/vast.git", branch = 'main' }
 boolean_expression = "=0.4.1"
 linked-hash-map = "0.5"
 smallvec = "1"
+llhd = "0.15.0"
